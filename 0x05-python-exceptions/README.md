@@ -1,2 +1,1 @@
-Exceptions for python
-
+# 0x05. Python - Exceptions
